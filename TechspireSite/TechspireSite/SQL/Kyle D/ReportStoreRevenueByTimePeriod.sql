@@ -1,5 +1,5 @@
 -- Kyle Dela Pena
--- Store Revenue within a given time frame
+--Store Revenue within a given time frame
 -- The report is useful when the client wants to know which time period gives her the most revenue. Using that information, she can plan production and pricing accordingly to take advantage of the most profitable time windows. She can also limit production on days where anticipated revenue is low so that products and materials are not wasted. The client can also compare revenue between different periods, then apply her business strategies from profitable periods to mediocre or low business periods.
 -- Calculates total revenue and average revenue per order in a given time period for a given store.
 -- Time Period, Store Name, Total Orders, Products Sold, Total Revenue, Avg Revenue Per Order
