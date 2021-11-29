@@ -1,7 +1,7 @@
-# TechspireProject
+Title: Techspire Bakery CIS3365 Class Project
  
-#Requires graphviz to be installed on the server when hosting a website
+Purpose: To demonstrate skills in Python, JS/Css/Html, SQL, database design, teamwork, and source control by developing a complete web-app with a front-end, back-end, and database as a ten person team.
 
-#Use pip install -r requirements.txt from within the virtual enviroment to install all packages
+Description: This is a prototype Bakery Loyalty System app. It is meant to supplement an existing POS (Point of sale) system by allowing cashiers to add customers and transactions to a database that keeps track of customer stats. Customers earn loyalty points by buying products eligible for the loyalty system and can then spend those points on rewards with the aid of a Cashier. 
 
-A Bakery Loyalty System Website built using Django Admin and SQL Server. Supports storing customer, employee, store, and transaction data.
+
