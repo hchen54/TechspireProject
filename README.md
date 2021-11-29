@@ -4,4 +4,17 @@ Purpose: To demonstrate skills in Python, JS/Css/Html, SQL, database design, tea
 
 Description: This is a prototype Bakery Loyalty System app. It is meant to supplement an existing POS (Point of sale) system by allowing cashiers to add customers and transactions to a database that keeps track of customer stats. Customers earn loyalty points by buying products eligible for the loyalty system and can then spend those points on rewards with the aid of a Cashier. 
 
+Requirements: In addition to the python packages in requirements.txt, graphviz needs to be installed on the hosting computer in order for ERD's to be generated.
 
+
+
+
+Note: This is a prototype version based on SQL Server and lacks proper automated testing and logging. The production version will have 
+- A seperate repo
+- Run on MySQL for the database
+- Unnessary features removed (tiers, social media, categories)
+- Support for tablets and PC
+- Error Logging through PythonAnywhere
+- Automated Testing
+- Automatic SQL creation through Django ORM (This repo has manual Create/Alter Scripts)
+- Development only features removed (Report Status, Data Dictionary, ERD)
